@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: 'Roboto';
+}
+.container {
+    padding: 50px 30px;
+    margin: 50px auto;
+    border-radius: 10px;
+    background-color: darkcyan;
+    color: #ffffff;
+    width: 800px;
+}
+h1{
+    margin-bottom: 20px;
+}
+.container button {
+    border: none;
+    color: #000;
+    background-color: aquamarine;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer; 
+}
